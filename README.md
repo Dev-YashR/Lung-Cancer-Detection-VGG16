@@ -34,6 +34,7 @@ Deployment: Developing a Flask/FastAPI wrapper to allow for real-time scan uploa
 📄 How to Use Clone the repository.
 
 Ensure the IQ-OTH/NCCD dataset is structured into Benign, Malignant, and Normal folders.
+Here's the dataset link: https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset
 
 Run the Jupyter Notebook to train the model or load the provided .h5 specialist file.
 
